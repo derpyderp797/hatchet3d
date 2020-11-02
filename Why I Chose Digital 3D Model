@@ -1,0 +1,20 @@
+Why I Chose Digital 3D model
+
+i chose Digital because when you said make 3d model, i thought of an obj(object) file
+but i knew i couldnt fit a whole terrain and assets in a single obj, so i instead make a 3d tour.
+i started out just playing with the terrain and seeing how i could make a lake, but
+i coulnt figure out how. I forgot about it until Friday, and i still didnt have a viable model.
+I asked if i could extend it until Monday and my teacher said okay but right on friday. I stresessed
+because i was so new to thi program that i didnt know what to do. I forgot about it, only to remember
+on Sunday. I was working on it at around 12:Pm when i finnaly urged myself to go do it.
+I searched how to do terrain editing, character controlling, and texturing. And then i found out
+that the standard assets folder pre-installed on my unity project had 1st and 3rd person movement
+i worked on terrain for a while and then i finnaly found out a design, so i went with it. I gave myself
+a break for a few hours, got carried away and i lost track of time. I remembered about the project at about
+5:00 PM and i didnt have much time. So i imported the 1st person controller, and there was errors,
+i found out that it was because the pre-installed asset pack was for Unity 2018 and it was a legacy pack,
+so it didnt have support and updates anymore. I instead used the 3rd person controller instead. I was working on
+water and textues, when i forgot about the plane. I imported a plane model, and placed it at the "l" of the lake.
+When i was done texturing, i got carried away again, two hours passed by and i was not even close to done.
+I coudnt find out how to make a cave, so i looked online for cave models, nd i settled on a simple one.
+I didnt have the html5 add-on for Unity, so i used a windows build instead. I imported it to github to submit a link.
